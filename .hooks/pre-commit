@@ -1,0 +1,7 @@
+#!/bin/sh
+
+yarn clean:deno && \
+yarn build:deno && \
+git add ./nominal-symbols/deno && \
+yarn lint && \
+yarn test
