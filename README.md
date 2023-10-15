@@ -1,6 +1,3 @@
-# @coderspirit/nominal-symbols
+# (ARCHIVED) @coderspirit/nominal-symbols
 
-This is a utility package used by
-[@coderspirit/nominal](https://github.com/Coder-Spirit/nominal) in order to ease
-releasing new versions without introducing compatibility problems due to symbols
-versioning.
+This project has been moved to the https://github.com/Coder-Spirit/nominal monorepo.
